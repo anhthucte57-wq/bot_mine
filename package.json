@@ -1,0 +1,13 @@
+{
+  "name": "bot-mine",
+  "version": "1.0.0",
+  "main": "bot_mine.js",
+  "scripts": {
+    "start": "node bot_mine.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.39.0",
+    "axios": "^1.6.0"
+  }
+}
